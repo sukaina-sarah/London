@@ -697,6 +697,10 @@ clip-path: ellipse(30% 41% at 50% 50%);
 
 	}
 
+.content-four{
+	-webkit-clip-path: ellipse(49% 34% at 50% 50%);
+clip-path: ellipse(49% 34% at 50% 50%);
+}
 
 
 }
